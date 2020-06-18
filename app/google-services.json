@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "888422715410",
+    "firebase_url": "https://cat-chatapp.firebaseio.com",
+    "project_id": "cat-chatapp",
+    "storage_bucket": "cat-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888422715410:android:5b0c7c8f316217171708cb",
+        "android_client_info": {
+          "package_name": "com.afrochic.afrochicchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888422715410-njck9t412sbkshltmmkelnh88ttkc254.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afrochic.afrochicchat",
+            "certificate_hash": "9a8e7ce9a0b006cb9b7074da6a1f3a1aa2f4ab2c"
+          }
+        },
+        {
+          "client_id": "888422715410-nqb01cag19b0s4uq0phd48036lghnpr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDnd2nq3dfv1NQ7AOSzZtsI0rJ_OKdp24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888422715410-nqb01cag19b0s4uq0phd48036lghnpr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888422715410:android:179b95780f5c9d4c1708cb",
+        "android_client_info": {
+          "package_name": "com.afrochicchchatpp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888422715410-nqb01cag19b0s4uq0phd48036lghnpr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDnd2nq3dfv1NQ7AOSzZtsI0rJ_OKdp24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888422715410-nqb01cag19b0s4uq0phd48036lghnpr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
